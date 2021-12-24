@@ -10,6 +10,8 @@ public class FirstProgram {
 			System.out.println("Loop Test " +i);
 		}
 
+	System.out.println("This is my First Program");
+
 	}
 
 }
